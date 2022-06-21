@@ -7,7 +7,7 @@ exports.data = [
   },
   {
     id: 2,
-    avata: 'img_5d8d246878273.jpg',
+    avatar: 'img_5d8d246878273.jpg',
     name: 'oguche isreal',
     year: 24,
   },
