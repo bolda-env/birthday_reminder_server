@@ -1,0 +1,24 @@
+{
+  "name": "birthday_reminder",
+  "version": "1.0.0",
+  "description": "Birthday Reminder for all who were unable to recall their Birthday.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Happy",
+    "Birthday",
+    "Happy",
+    "Birthday",
+    "Celebrations",
+    "Celebrants",
+    "Birthday",
+    "Girl",
+    "Birthday",
+    "Boy",
+    "etc"
+  ],
+  "author": "Abel Emmanuel",
+  "license": "ISC"
+}
